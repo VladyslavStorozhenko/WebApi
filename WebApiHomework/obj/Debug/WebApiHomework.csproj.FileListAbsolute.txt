@@ -6,8 +6,6 @@ C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\nunit.engine
 C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\WebApiHomework.exe.config
-C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\WebApiHomework.exe
 C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\WebApiHomework.pdb
 C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
@@ -20,6 +18,7 @@ C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\nunit.framew
 C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\RestSharp.xml
 C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\obj\Debug\WebApiHomework.csproj.CoreCompileInputs.cache
 C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\obj\Debug\WebApiHomework.csproj.CopyComplete
-C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\obj\Debug\WebApiHomework.exe
 C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\obj\Debug\WebApiHomework.pdb
-C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\obj\Debug\WebApiHomework.csprojAssemblyReference.cache
+C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\WebApiHomework.dll.config
+C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\bin\Debug\WebApiHomework.dll
+C:\Users\vstor\source\repos\WebApiHomework\WebApiHomework\obj\Debug\WebApiHomework.dll
