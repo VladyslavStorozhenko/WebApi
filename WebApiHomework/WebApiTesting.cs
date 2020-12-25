@@ -12,7 +12,7 @@ namespace WebApiHomework
     public class EndPoints
     {
         [Test]
-        public void UploadTest()
+        public void AUploadTest()
         {
             var DropBoxClientTest = new RestClient("https://content.dropboxapi.com/2/files/upload");
             DropBoxClientTest.Timeout = -1;
@@ -29,7 +29,7 @@ namespace WebApiHomework
         }
 
         [Test]
-        public void GetFileMetadataTest()
+        public void BGetFileMetadataTest()
         {
             var DropBoxClientTest = new RestClient("https://api.dropboxapi.com/2/sharing/get_file_metadata");
             DropBoxClientTest.Timeout = -1;
@@ -45,7 +45,7 @@ namespace WebApiHomework
         }
 
         [Test]
-        public void DeleteFileTest()
+        public void CDeleteFileTest()
         {
             var DropBoxClientTest = new RestClient("https://api.dropboxapi.com/2/files/delete");
             DropBoxClientTest.Timeout = -1;
